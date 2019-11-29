@@ -1,0 +1,11 @@
+name: DayNight
+version: 1.0
+author: MarcJus
+main: fr.marcjus.daynight.Main
+commands:
+  day:
+    description: Permet de mettre le jour
+    permission: marcjus.day
+  night:
+    description: Permet de mettre la nuit
+    permission: marcjus.night
